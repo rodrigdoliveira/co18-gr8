@@ -3,7 +3,7 @@
 GR8 is an imperative unstructured language. One of the objectives of the language is to allow easy reading, so it is strongly restrictive regarding the appearance and position of the code in the lines (indentation).
 
 ## Final Grade
-17.81
+17.81 / 20
 
 ## Authors
 
